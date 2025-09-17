@@ -20,12 +20,16 @@
 
 ## 📁 Структура проекта
 ├── index.html # Главная страница
-├── style.css # Стили (CSS с переменными)
-├── script.js # JavaScript функционал
-├── README.md # Документация
-├── CHANGELOG.md # История изменений
-└── .gitignore # Исключаемые файлы
 
+├── style.css # Стили (CSS с переменными)
+
+├── script.js # JavaScript функционал
+
+├── README.md # Документация
+
+├── CHANGELOG.md # История изменений
+
+└── .gitignore # Исключаемые файлы
 
 ## 🎨 Компоненты
 
