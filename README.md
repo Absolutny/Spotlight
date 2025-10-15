@@ -48,7 +48,7 @@ git clone https://github.com/your-username/devteam-spotlight.git
 ```
 2. Откройте файл index.html в браузере
 
-👥 Команда
+## 👥 Команда
 Егор Тихонов - Team Lead & Fullstack Developer
 
 Николай Девятов - Frontend Developer
